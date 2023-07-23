@@ -29,7 +29,7 @@ Website Completion ETA: September
   
 ## Projects
 ### Personal Website
-- This webpage you are looking right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. Right now, it is still in its early stages of development, however, in the future, I plan to integrate more pages and commit to update it every so often. 
+- This webpage you are looking at right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. Right now, it is still in its early stages of development, however, in the future, I plan to integrate more pages and commit to update it every so often. 
 
 ### American Sign Language (ASL) Interpreter
 - Designed and developed a highly successful Human Activity Recognition (HAR) with transfer learning concept using **Python Tensorflow**. This model can accurately interpret American Sign Language (ASL) alphanumeric and phrases gestures with 97% accuracy level. It was recognized as the top undergraduate multimedia project in the class. [Paper](https://drive.google.com/file/d/1FjJOhhQLcB6bIoa6NVd9COpDIwuNHD9i/view?usp=sharing)
@@ -43,5 +43,5 @@ Website Completion ETA: September
 ## Blog
 
 ## Contact
-[Email](https://www.mdpi.com/1424-8220/22/11/4240)  
-[LinkedIn](https://www.mdpi.com/1424-8220/22/11/4240)
+[Email](mailto:riana.anastasia481@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/anastasia-riana/)
