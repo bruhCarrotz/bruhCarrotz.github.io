@@ -3,8 +3,6 @@ Hello and welcome to my webpage! I'm a senior computer science student with a st
 
 Website Completion ETA: September  
 
-[Click here to see my full resume!](https://drive.google.com/file/d/1IqGT9JbgtbQ6Eq4QB2Ad8lE-lrJU0VzK/view?usp=sharing)
-
 ## Education
 - B.Sc., Electrical Engineering and Computer Science | National Tsing Hua University | Hsinchu, Taiwan (_2020_)
 - High School Diploma, Natural Sciences | Saint Ursula Senior High School | Jakarta, Indonesia (_2017_)
@@ -25,23 +23,20 @@ Website Completion ETA: September
 - I support the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow.
 
 **Social Media Intern @We Scale Startups (_September 2021 - April 2022_)**
-- I played a crucial role in supporting the growth of multiple startups through data-driven strategies, content creation, and digital marketing. I curate compelling content for various digital channels, manage social media accounts, and execute successful email campaigns with a 25% increase in open rates. Additionally, my social media content calendar attracted over 3000 visitors to our Instagram account, driving growth and establishing a strong online presence for the startups I collaborated with.
-
+- I supported multiple startups' growth through data-driven strategies, content creation, and digital marketing. Managed social media, executed successful email campaigns (25% open rate increase), and attracted 3000+ visitors to Instagram.
+  
 ## Projects
 ### Personal Website
-- This webpage you are looking right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. Right now, it is still in its early stages of developement, however, in the future, I plan to integrate more pages and commit to update it every so often. 
+- This webpage you are looking right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. Right now, it is still in its early stages of development, however, in the future, I plan to integrate more pages and commit to update it every so often. 
 
 ### American Sign Language Interpreter
-- [Paper](https://drive.google.com/file/d/1FjJOhhQLcB6bIoa6NVd9COpDIwuNHD9i/view?usp=sharing)
-- Designed and developed a highly successful Human Activity Recognition (HAR) with transfer learning concept using **Python Tensorflow**. This model can accurately interpret American Sign Language (ASL) alphanumeric and phrases gestures with 97% accuracy level. It was recognized as the top undergraduate multimedia project in the class.
+- Designed and developed a highly successful Human Activity Recognition (HAR) with transfer learning concept using **Python Tensorflow**. This model can accurately interpret American Sign Language (ASL) alphanumeric and phrases gestures with 97% accuracy level. It was recognized as the top undergraduate multimedia project in the class. [Paper](https://drive.google.com/file/d/1FjJOhhQLcB6bIoa6NVd9COpDIwuNHD9i/view?usp=sharing)
 
 ### Speech-to-Text Converter
-- [Demo Video](https://drive.google.com/file/d/1PwejNuSXYeEBPsRTeCGwUkvZ384cv57H/view?usp=sharing)
-- Developed a speech-to-text tool using Python, utilizing libraries such as **tkinter, PyAudio, etc.** with translation supported by Google API plugin and file writing features. The user-friendly GUI earned it a Top Three Best Work award from the university.
+- Developed a speech-to-text tool using Python, utilizing libraries such as **tkinter, PyAudio, etc.** with translation supported by Google API plugin and file writing features. The user-friendly GUI earned it a Top Three Best Work award from the university. [Demo Video](https://drive.google.com/file/d/1PwejNuSXYeEBPsRTeCGwUkvZ384cv57H/view?usp=sharing)
 
 ### Bookkeeping Program
-- [Demo Video]()
-- Designed and implemented a simple income and expenses tracker program using object-oriented programming (OOP) principles along with stack and queue data structures. The project, written in Python involved writing the necessary code to handle income and expenses data efficiently and building a user-friendly GUI interface.
+- Designed and implemented a simple income and expenses tracker program using object-oriented programming (OOP) principles along with stack and queue data structures. The project, written in Python involved writing the necessary code to handle income and expenses data efficiently and building a user-friendly GUI interface. [Demo Video]()
 
 ## Blog
 
