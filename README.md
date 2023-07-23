@@ -1,7 +1,7 @@
 ## Overview
-Hi! Welcome to my webpage. Right now, this webpage is still in its early stage of development. I am looking forward to be able to expand it even more in the future, as well as sharing blogpost on my activities, experiences and hobbies.  
+Hi! Welcome to my webpage. I am a senior computer science student with a keen interest in kickstarting my career in data science. Equipped with a strong foundation in computer science and data analysis, I am eager to apply my skills in real-world data-driven challenges. As an active participant in various student organizations, I have honed my leadership and teamwork abilities. My passion for reading and music not only fuels my creativity but also nurtures a strong attention to detail and a tenacious problem-solving mindset. I am dedicated to leveraging my technical expertise and diverse interests to drive innovation and make a meaningful impact in the field of data science.
 
-ETA: September  
+Website Completion ETA: September  
 
 [Click here to see my full resume!](https://drive.google.com/file/d/1IqGT9JbgtbQ6Eq4QB2Ad8lE-lrJU0VzK/view?usp=sharing)
 
@@ -10,47 +10,41 @@ ETA: September
 - High School Diploma, Natural Sciences | Saint Ursula Senior High School | Jakarta, Indonesia (_2017_)
 
 ## Skills
+- Languages: English, Indonesian, Mandarin
+- Programming: Python, C/C++, R, HTML/CSS, JavaScript, SQL
+- Tools: Microsoft Office, Google Workspaces, Jira, Notion, Adobe, UNIX
+- Soft Skills: Teamwork, Communication, Punctuality, Leadership, Efficiency, Responsible
+- Others: Graphic Design, Photography, Video Editing
 
 ## Work Experiences
 **Elementary School Programming Teacher @Beyond Education Institute (_Starting September 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-  
-**Data Entry Specialist Intern @Faria Education Group (_July 2023 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Digital Marketing Intern @Crypto Arsenal (_July 2023 - September 2023_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Data Entry Specialist Intern @Faria Education Group (_July 2023 - Present_)**
+
+**Undergraduate Research Assistant @National Tsing Hua University (_February 2023 - Present_)**
+I support the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow.
 
 **Social Media Intern @We Scale Startups (_September 2021 - April 2022_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+In this position, I played a crucial role in supporting the growth of multiple startups by leveraging my expertise in data-driven strategies, content creation, and digital marketing. I take pride in curating compelling content for diverse digital channels, managing social media accounts, and executing successful email marketing campaigns that have led to a remarkable 25% increase in open rates. By developing and implementing a well-structured social media content calendar, I have successfully attracted over 3000 visitors to our Instagram account. My contributions have been instrumental in driving growth and establishing a strong online presence for the startups I've collaborated with.
 
 ## Projects
 ### Personal Website
-This webpage you are looking right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. In the future, I plan to integrate more pages and commit to update it every so often. 
+This webpage you are looking right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. Right now, it is still in its early stages of developement, however, in the future, I plan to integrate more pages and commit to update it every so often. 
 
 ### American Sign Language Interpreter
-[Paper](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+[Paper](https://drive.google.com/file/d/1FjJOhhQLcB6bIoa6NVd9COpDIwuNHD9i/view?usp=sharing)
+Designed and developed a highly successful Human Activity Recognition (HAR) with transfer learning concept using **Python Tensorflow**. This model can accurately interpret American Sign Language (ASL) alphanumeric and phrases gestures with 97% accuracy level. It was recognized as the top undergraduate multimedia project in the class.
 
 ### Speech-to-Text Converter
-[Demo Video](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+[Demo Video](https://drive.google.com/file/d/1PwejNuSXYeEBPsRTeCGwUkvZ384cv57H/view?usp=sharing)
+Developed a speech-to-text tool using Python, utilizing libraries such as **tkinter, PyAudio, etc.** with translation supported by Google API plugin and file writing features. The user-friendly GUI earned it a Top Three Best Work award from the university.
 
 ### Bookkeeping Program
-[Demo Video](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-## Volunteering
+[Demo Video]()
+Designed and implemented a simple income and expenses tracker program using object-oriented programming (OOP) principles along with stack and queue data structures. The project, written in Python involved writing the necessary code to handle income and expenses data efficiently and building a user-friendly GUI interface.
 
 ## Blog
 
 ## Contact
-[Email](https://www.mdpi.com/1424-8220/22/11/4240)
+[Email](https://www.mdpi.com/1424-8220/22/11/4240)  
 [LinkedIn](https://www.mdpi.com/1424-8220/22/11/4240)
