@@ -1,5 +1,5 @@
 ## Overview
-Hi! Welcome to my webpage. I am a senior computer science student with a keen interest in kickstarting my career in data science. Equipped with a strong foundation in computer science and data analysis, I am eager to apply my skills in real-world data-driven challenges. As an active participant in various student organizations, I have honed my leadership and teamwork abilities. My passion for reading and music not only fuels my creativity but also nurtures a strong attention to detail and a tenacious problem-solving mindset. I am dedicated to leveraging my technical expertise and diverse interests to drive innovation and make a meaningful impact in the field of data science.
+Hello and welcome to my webpage! I'm a senior computer science student with a strong interest in data science. My skills in computer science and data analysis drive my enthusiasm for tackling real-world data challenges. Active involvement in student organizations has refined my leadership and teamwork abilities. Reading and music fuel my creativity and attention to detail, fostering a tenacious problem-solving mindset. I'm dedicated to using my technical expertise and diverse interests to innovate and make a meaningful impact in data science.  
 
 Website Completion ETA: September  
 
@@ -22,26 +22,26 @@ Website Completion ETA: September
 **Data Entry Specialist Intern @Faria Education Group (_July 2023 - Present_)**
 
 **Undergraduate Research Assistant @National Tsing Hua University (_February 2023 - Present_)**
-I support the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow.
+- I support the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow.
 
 **Social Media Intern @We Scale Startups (_September 2021 - April 2022_)**
-In this position, I played a crucial role in supporting the growth of multiple startups by leveraging my expertise in data-driven strategies, content creation, and digital marketing. I take pride in curating compelling content for diverse digital channels, managing social media accounts, and executing successful email marketing campaigns that have led to a remarkable 25% increase in open rates. By developing and implementing a well-structured social media content calendar, I have successfully attracted over 3000 visitors to our Instagram account. My contributions have been instrumental in driving growth and establishing a strong online presence for the startups I've collaborated with.
+- I played a crucial role in supporting the growth of multiple startups through data-driven strategies, content creation, and digital marketing. I curate compelling content for various digital channels, manage social media accounts, and execute successful email campaigns with a 25% increase in open rates. Additionally, my social media content calendar attracted over 3000 visitors to our Instagram account, driving growth and establishing a strong online presence for the startups I collaborated with.
 
 ## Projects
 ### Personal Website
-This webpage you are looking right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. Right now, it is still in its early stages of developement, however, in the future, I plan to integrate more pages and commit to update it every so often. 
+- This webpage you are looking right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. Right now, it is still in its early stages of developement, however, in the future, I plan to integrate more pages and commit to update it every so often. 
 
 ### American Sign Language Interpreter
-[Paper](https://drive.google.com/file/d/1FjJOhhQLcB6bIoa6NVd9COpDIwuNHD9i/view?usp=sharing)
-Designed and developed a highly successful Human Activity Recognition (HAR) with transfer learning concept using **Python Tensorflow**. This model can accurately interpret American Sign Language (ASL) alphanumeric and phrases gestures with 97% accuracy level. It was recognized as the top undergraduate multimedia project in the class.
+- [Paper](https://drive.google.com/file/d/1FjJOhhQLcB6bIoa6NVd9COpDIwuNHD9i/view?usp=sharing)
+- Designed and developed a highly successful Human Activity Recognition (HAR) with transfer learning concept using **Python Tensorflow**. This model can accurately interpret American Sign Language (ASL) alphanumeric and phrases gestures with 97% accuracy level. It was recognized as the top undergraduate multimedia project in the class.
 
 ### Speech-to-Text Converter
-[Demo Video](https://drive.google.com/file/d/1PwejNuSXYeEBPsRTeCGwUkvZ384cv57H/view?usp=sharing)
-Developed a speech-to-text tool using Python, utilizing libraries such as **tkinter, PyAudio, etc.** with translation supported by Google API plugin and file writing features. The user-friendly GUI earned it a Top Three Best Work award from the university.
+- [Demo Video](https://drive.google.com/file/d/1PwejNuSXYeEBPsRTeCGwUkvZ384cv57H/view?usp=sharing)
+- Developed a speech-to-text tool using Python, utilizing libraries such as **tkinter, PyAudio, etc.** with translation supported by Google API plugin and file writing features. The user-friendly GUI earned it a Top Three Best Work award from the university.
 
 ### Bookkeeping Program
-[Demo Video]()
-Designed and implemented a simple income and expenses tracker program using object-oriented programming (OOP) principles along with stack and queue data structures. The project, written in Python involved writing the necessary code to handle income and expenses data efficiently and building a user-friendly GUI interface.
+- [Demo Video]()
+- Designed and implemented a simple income and expenses tracker program using object-oriented programming (OOP) principles along with stack and queue data structures. The project, written in Python involved writing the necessary code to handle income and expenses data efficiently and building a user-friendly GUI interface.
 
 ## Blog
 
