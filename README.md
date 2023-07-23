@@ -1,5 +1,5 @@
 ## Overview
-Hi! Welcome to my webpage. Right now, this webpage is still in its early stage of development. I am looking forward to be able to expand it even more in the future, as well as sharing blogpost on my activities, experiences and hobbies. ETA: September //
+Hi! Welcome to my webpage. Right now, this webpage is still in its early stage of development. I am looking forward to be able to expand it even more in the future, as well as sharing blogpost on my activities, experiences and hobbies.  ETA: September  
 [Click here to see my full resume!](https://drive.google.com/file/d/1IqGT9JbgtbQ6Eq4QB2Ad8lE-lrJU0VzK/view?usp=sharing)
 
 ## Education
