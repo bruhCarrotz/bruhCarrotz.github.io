@@ -31,7 +31,7 @@ Website Completion ETA: September
 ### Personal Website
 - This webpage you are looking right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. Right now, it is still in its early stages of development, however, in the future, I plan to integrate more pages and commit to update it every so often. 
 
-### American Sign Language Interpreter
+### American Sign Language (ASL) Interpreter
 - Designed and developed a highly successful Human Activity Recognition (HAR) with transfer learning concept using **Python Tensorflow**. This model can accurately interpret American Sign Language (ASL) alphanumeric and phrases gestures with 97% accuracy level. It was recognized as the top undergraduate multimedia project in the class. [Paper](https://drive.google.com/file/d/1FjJOhhQLcB6bIoa6NVd9COpDIwuNHD9i/view?usp=sharing)
 
 ### Speech-to-Text Converter
