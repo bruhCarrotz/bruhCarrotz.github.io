@@ -1,5 +1,7 @@
 ## Overview
-Hello and welcome to my webpage! I'm a senior computer science student with a strong interest in data science. My skills in computer science and data analysis drive my enthusiasm for tackling real-world data challenges. Active involvement in student organizations has refined my leadership and teamwork abilities. Reading and music fuel my creativity and attention to detail, fostering a tenacious problem-solving mindset. I'm dedicated to using my technical expertise and diverse interests to innovate and make a meaningful impact in data science.  
+Welcome to my webpage!  
+
+I'm a senior computer science student with a strong interest in data science. My skills in computer science and data analysis drive my enthusiasm for tackling real-world data challenges. Active involvement in student organizations has honed my leadership and teamwork abilities. Reading and music fuel my creativity, attention to detail, and tenacious problem-solving mindset. I'm dedicated to using my technical expertise and diverse interests to innovate and make a meaningful impact in data science.
 
 Website Completion ETA: September  
 
@@ -33,10 +35,10 @@ Website Completion ETA: September
 - Designed and developed a highly successful Human Activity Recognition (HAR) with transfer learning concept using **Python Tensorflow**. This model can accurately interpret American Sign Language (ASL) alphanumeric and phrases gestures with 97% accuracy level. It was recognized as the top undergraduate multimedia project in the class. [Paper](https://drive.google.com/file/d/1FjJOhhQLcB6bIoa6NVd9COpDIwuNHD9i/view?usp=sharing)
 
 ### Speech-to-Text Converter
-- Developed a speech-to-text tool using Python, utilizing libraries such as **tkinter, PyAudio, etc.** with translation supported by Google API plugin and file writing features. The user-friendly GUI earned it a Top Three Best Work award from the university. [Demo Video](https://drive.google.com/file/d/1PwejNuSXYeEBPsRTeCGwUkvZ384cv57H/view?usp=sharing)
+- Developed a speech-to-text tool using Python, utilizing libraries such as **tkinter, PyAudio, etc.** with translation supported by multiple **Google API** and file writing features. The user-friendly GUI earned it a Top Three Best Work award from the university. [Demo Video](https://drive.google.com/file/d/1PwejNuSXYeEBPsRTeCGwUkvZ384cv57H/view?usp=sharing)
 
 ### Bookkeeping Program
-- Designed and implemented a simple income and expenses tracker program using object-oriented programming (OOP) principles along with stack and queue data structures. The project, written in Python involved writing the necessary code to handle income and expenses data efficiently and building a user-friendly GUI interface. [Demo Video]()
+- Designed and implemented a simple income and expenses tracker program using object-oriented programming (OOP) principles along with stack and queue data structures. The project, written in **Python** involved writing the necessary code to handle income and expenses data efficiently and building a user-friendly GUI interface. [Demo Video]()
 
 ## Blog
 
