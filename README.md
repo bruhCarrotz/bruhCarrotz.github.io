@@ -1,12 +1,12 @@
-# Data Scientist
+## Overview
+Hi! Welcome to my webpage. It is still in development right now.
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
+- B.Sc., Electrical Engineering and Computer Science | National Tsing Hua University | Hsinchu, Taiwan (_2020_)
+- High School Diploma, Natural Sciences | Saint Ursula Senior High School | Jakarta, Indonesia (_2017_)
+ 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
