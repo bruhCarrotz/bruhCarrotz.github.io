@@ -16,7 +16,7 @@ Website Completion ETA: September
 - Soft Skills: Teamwork, Communication, Punctuality, Leadership, Efficiency, Responsible
 - Others: Graphic Design, Photography, Video Editing
 
-## Work Experiences
+## Work and Research Experiences
 **Elementary School Programming Teacher @Beyond Education Institute (_Starting September 2023_)**
 
 **Data Entry Specialist Intern @Faria Education Group (_July 2023 - Present_)**
