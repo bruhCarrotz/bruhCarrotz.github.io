@@ -22,7 +22,7 @@ Website Completion ETA: September
 **Data Specialist Intern @Faria Education Group (_July 2023 - Present_)**
 
 **Undergraduate Research Assistant @National Tsing Hua University (_February 2023 - Present_)**
-- I am currently supporting the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow under Prof. Shen, Chih-Ya's supervision.
+- I am currently supporting the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow under Prof. Shen Chih-Ya's supervision.
 
 **Social Media Intern @We Scale Startups (_September 2021 - April 2022_)**
 - I supported multiple startups' growth through data-driven strategies, content creation, and digital marketing. Managed social media, executed successful email campaigns (25% open rate increase), and attracted 3000+ visitors to Instagram.
