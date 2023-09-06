@@ -17,8 +17,6 @@ Website Completion ETA: September
 - Others: Graphic Design, Photography, Video Editing
 
 ## Work and Research Experiences
-**Elementary School Programming Teacher @Beyond Education Institute (_Starting September 2023_)**
-
 **Data Specialist Intern @Faria Education Group (_July 2023 - Present_)**
 
 **Undergraduate Research Assistant @National Tsing Hua University (_February 2023 - Present_)**
