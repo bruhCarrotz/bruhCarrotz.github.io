@@ -3,8 +3,6 @@ Welcome to my webpage!
 
 I'm a senior computer science student with a strong interest in data science. My skills in computer science and data analysis drive my enthusiasm for tackling real-world data challenges. Active involvement in student organizations has honed my leadership and teamwork abilities. Reading and music fuel my creativity, attention to detail, and tenacious problem-solving mindset. I'm dedicated to using my technical expertise and diverse interests to innovate and make a meaningful impact in data science.
 
-Website Completion ETA: September  
-
 ## Education
 - B.Sc., Electrical Engineering and Computer Science | National Tsing Hua University | Hsinchu, Taiwan (_2020_)
 - High School Diploma, Natural Sciences | Saint Ursula Senior High School | Jakarta, Indonesia (_2017_)
