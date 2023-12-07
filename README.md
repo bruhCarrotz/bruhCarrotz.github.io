@@ -24,6 +24,8 @@ I'm a senior computer science student with a strong interest in data science. My
 - I supported multiple startups' growth through data-driven strategies, content creation, and digital marketing. Managed social media, executed successful email campaigns (25% open rate increase), and attracted 3000+ visitors to Instagram.
   
 ## Projects
+### Automated Object Removal with Segmentation and Image Inpainting
+### Recommendation Systems with Collaborative Filtering and Supervised Learning
 ### Personal Website
 - This webpage you are looking at right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. Right now, it is still in its early stages of development, however, in the future, I plan to integrate more pages and commit to update it every so often. 
 
@@ -38,4 +40,4 @@ I'm a senior computer science student with a strong interest in data science. My
 
 ## Contact
 [Email](mailto:riana.anastasia481@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/anastasia-riana/)
+[LinkedIn](https://www.linkedin.com/in/anastasiariana/)
