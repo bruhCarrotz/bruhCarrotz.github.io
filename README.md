@@ -16,16 +16,18 @@ I'm a senior computer science student with a strong interest in data science. My
 
 ## Work and Research Experiences
 **Data Specialist Intern @Faria Education Group (_July 2023 - Present_)**
+- Directed smooth transitions of data into ManageBac, refining data quality through thorough cleansing processes and utilizing Excel and Python for precise preprocessing and effective validation, ensuring swift and accurate entry.
 
 **Undergraduate Research Assistant @National Tsing Hua University (_February 2023 - December 2023_)**
-- I am currently supporting the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow under Prof. Shen Chih-Ya's supervision.
+- Supported the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow under Prof. Shen Chih-Ya's supervision.
 
 **Social Media Intern @We Scale Startups (_September 2021 - April 2022_)**
 - I supported multiple startups' growth through data-driven strategies, content creation, and digital marketing. Managed social media, executed successful email campaigns (25% open rate increase), and attracted 3000+ visitors to Instagram.
   
 ## Projects
-### Automated Object Removal with Segmentation and Image Inpainting
-### Recommendation Systems with Collaborative Filtering and Supervised Learning
+### Automated Object Removal using Exemplar-Based Inpainting
+- Researched and developed an automated object removal program using concepts of digital image processing such as exemplar-based inpainting using MatLab. [Paper](https://drive.google.com/file/d/1uSVgg17T92mDnxO-7-5zfHUI0hzyXNlE/view)
+  
 ### Personal Website
 - This webpage you are looking at right now is developed using **HTML/CSS** and **JavaScript** as one of my personal projects. The webpage is hosted in GitHub Pages alongside **Jekyll** integration. Right now, it is still in its early stages of development, however, in the future, I plan to integrate more pages and commit to update it every so often. 
 
@@ -36,7 +38,7 @@ I'm a senior computer science student with a strong interest in data science. My
 - Developed a speech-to-text tool using Python, utilizing libraries such as **tkinter, PyAudio, etc.** with translation supported by multiple **Google API** and file writing features. The user-friendly GUI earned it a Top Three Best Work award from the university. [Demo Video](https://drive.google.com/file/d/1PwejNuSXYeEBPsRTeCGwUkvZ384cv57H/view?usp=sharing)
 
 ### Bookkeeping Program
-- Designed and implemented a simple income and expenses tracker program using object-oriented programming (OOP) principles along with stack and queue data structures. The project, written in **Python** involved writing the necessary code to handle income and expenses data efficiently and building a user-friendly GUI interface. [Demo Video]()
+- Designed and implemented a simple income and expenses tracker program using object-oriented programming (OOP) principles along with stack and queue data structures. The project, written in **Python** involved writing the necessary code to handle income and expenses data efficiently and building a user-friendly GUI interface.
 
 ## Contact
 [Email](mailto:riana.anastasia481@gmail.com)  
