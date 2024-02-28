@@ -7,19 +7,6 @@ I'm a senior computer science student with a strong interest in data science. My
 - B.Sc., Electrical Engineering and Computer Science | National Tsing Hua University | Hsinchu, Taiwan (_2020_)
 - High School Diploma, Natural Sciences | Saint Ursula Senior High School | Jakarta, Indonesia (_2017_)
 
-## Certification
-- **Google Data Analytics Professional Certificate** (February 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
-- **Google IT Support Professional Certificate** (March 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
-- **Microsoft Power BI Data Analyst Associate** () [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
-- **Amazon Web Services Solutions Architect Associate** () [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
-
-## Skills
-- Languages: English, Indonesian, Mandarin
-- Programming: Python, C/C++, R, HTML/CSS, JavaScript, SQL
-- Tools: Microsoft Office, Google Workspaces, Jira, Notion, Adobe, UNIX
-- Soft Skills: Teamwork, Communication, Punctuality, Leadership, Efficiency, Responsible
-- Others: Graphic Design, Photography, Video Editing
-
 ## Work and Research Experiences
 **Data Specialist Intern @Faria Education Group (_July 2023 - Present_)**
 - Directed smooth transitions of data into ManageBac, refining data quality through thorough cleansing processes and utilizing Excel and Python for precise preprocessing and effective validation, ensuring swift and accurate entry.
@@ -29,6 +16,19 @@ I'm a senior computer science student with a strong interest in data science. My
 
 **Social Media Intern @We Scale Startups (_September 2021 - April 2022_)**
 - I supported multiple startups' growth through data-driven strategies, content creation, and digital marketing. Managed social media, executed successful email campaigns (25% open rate increase), and attracted 3000+ visitors to Instagram.
+
+## Skills
+- Languages: English, Indonesian, Mandarin
+- Programming: Python, C/C++, R, HTML/CSS, JavaScript, SQL
+- Tools: Microsoft Office, Google Workspaces, Jira, Notion, Adobe, UNIX
+- Soft Skills: Teamwork, Communication, Punctuality, Leadership, Efficiency, Responsible
+- Others: Graphic Design, Photography, Video Editing
+
+## Certification
+- **Google Data Analytics Professional Certificate** (February 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
+- **Google IT Support Professional Certificate** (March 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
+- **Microsoft Power BI Data Analyst Associate** () [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
+- **Amazon Web Services Solutions Architect Associate** () [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
   
 ## Projects
 ### Automated Object Removal using Exemplar-Based Inpainting
