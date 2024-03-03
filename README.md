@@ -26,9 +26,9 @@ I'm a senior computer science student with a strong interest in data science. My
 
 ## Certification
 - **Google Data Analytics Professional Certificate** (February 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
-- **Google IT Support Professional Certificate** (March 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
-- **Microsoft Power BI Data Analyst Associate** () [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
-- **Amazon Web Services Solutions Architect Associate** () [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
+- **Google IT Support Professional Certificate** (March 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/88GD6W9YBTZM)
+- **Microsoft Power BI Data Analyst Associate** () [Credentials]()
+- **Amazon Web Services Solutions Architect Associate** () [Credentials]()
   
 ## Projects
 ### Automated Object Removal using Exemplar-Based Inpainting
