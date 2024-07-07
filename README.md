@@ -4,17 +4,18 @@ Welcome to my webpage!
 I'm a senior computer science student with a strong interest in data science. My skills in computer science and data analysis drive my enthusiasm for tackling real-world data challenges. Active involvement in student organizations has honed my leadership and teamwork abilities. Reading and music fuel my creativity, attention to detail, and tenacious problem-solving mindset. I'm dedicated to using my technical expertise and diverse interests to innovate and make a meaningful impact in data science.
 
 ## Education
-- B.Sc., Electrical Engineering and Computer Science | National Tsing Hua University | Hsinchu, Taiwan (_2020_)
-- High School Diploma, Natural Sciences | Saint Ursula Senior High School | Jakarta, Indonesia (_2017_)
+- B.Sc., Electrical Engineering and Computer Science | National Tsing Hua University | Hsinchu, Taiwan (_2020-2024_)
+- High School Diploma, Natural Sciences | Saint Ursula Senior High School | Jakarta, Indonesia (_2017-2020_)
 
 ## Work and Research Experiences
-**Data Specialist Intern @Faria Education Group (_July 2023 - Present_)**
+**Standards & Data Services Specialist @Faria Education Group (_June 2024 - Present_)**
+**Data Specialist Intern @Faria Education Group (_July 2023 - June 2024_)**
 - Directed smooth transitions of data into ManageBac, refining data quality through thorough cleansing processes and utilizing Excel and Python for precise preprocessing and effective validation, ensuring swift and accurate entry.
 
 **Undergraduate Research Assistant @National Tsing Hua University (_February 2023 - December 2023_)**
 - Supported the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow under Prof. Shen Chih-Ya's supervision.
 
-**Social Media Intern @We Scale Startups (_September 2021 - April 2022_)**
+**Marketing Technology and Analytics Intern @We Scale Startups (_September 2021 - April 2022_)**
 - I supported multiple startups' growth through data-driven strategies, content creation, and digital marketing. Managed social media, executed successful email campaigns (25% open rate increase), and attracted 3000+ visitors to Instagram.
 
 ## Skills
