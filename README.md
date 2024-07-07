@@ -9,7 +9,7 @@ I'm a senior computer science student with a strong interest in data science. My
 
 ## Work and Research Experiences
 **Standards & Data Services Specialist @Faria Education Group (_June 2024 - Present_)**
-- 
+-  
 
 **Data Specialist Intern @Faria Education Group (_July 2023 - June 2024_)**
 - Directed smooth transitions of data into ManageBac, refining data quality through thorough cleansing processes and utilizing Excel and Python for precise preprocessing and effective validation, ensuring swift and accurate entry.
