@@ -15,6 +15,7 @@ Hi, I'm Anastasia Riana and I'm a recent graduate in computer science student wi
 - Others: Graphic Design, Photography, Video Editing
 
 ## Certification
+- **IElTS Band 7**
 - **Google Data Analytics Professional Certificate** (February 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
 - **Google IT Support Professional Certificate** (March 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/88GD6W9YBTZM)
 
