@@ -1,7 +1,7 @@
 ## Overview
 Welcome to my webpage!  
 
-I'm a senior computer science student with a strong interest in data science. My skills in computer science and data analysis drive my enthusiasm for tackling real-world data challenges. Active involvement in student organizations has honed my leadership and teamwork abilities. Reading and music fuel my creativity, attention to detail, and tenacious problem-solving mindset. I'm dedicated to using my technical expertise and diverse interests to innovate and make a meaningful impact in data science.
+Hi, I'm Anastasia Riana and I'm a recent graduate in computer science student with a strong affinity for data science, and passion for project management, data analysis, and problem-solving. I'm skilled in collaborating with teams, adapting to new challenges, and finding efficient solutions. I'm eager to learn, grow, and contribute to meaningful projects. Let’s connect!
 
 ## Education
 - B.Sc., Electrical Engineering and Computer Science | National Tsing Hua University | Hsinchu, Taiwan (_2020-2024_)
