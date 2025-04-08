@@ -7,6 +7,17 @@ Hi, I'm Anastasia Riana and I'm a recent graduate in computer science student wi
 - B.Sc., Electrical Engineering and Computer Science | National Tsing Hua University | Hsinchu, Taiwan (_2020-2024_)
 - High School Diploma, Natural Sciences | Saint Ursula Senior High School | Jakarta, Indonesia (_2017-2020_)
 
+## Skills
+- Languages: English, Indonesian, Mandarin
+- Programming: Python, C/C++, R, HTML/CSS, JavaScript, SQL
+- Tools: Microsoft Office, Google Workspaces, Jira, Notion, Adobe, UNIX
+- Soft Skills: Teamwork, Communication, Punctuality, Leadership, Efficiency, Responsible
+- Others: Graphic Design, Photography, Video Editing
+
+## Certification
+- **Google Data Analytics Professional Certificate** (February 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
+- **Google IT Support Professional Certificate** (March 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/88GD6W9YBTZM)
+
 ## Work and Research Experiences
 **Standards & Data Services Specialist @Fime Consulting (_June 2025 - Present_)**
 - Managed Go-to-Market strategies, helping customers define their technical objectives and overcome challenges by recommending migration strategies, define technical specifications, and support successful product launches using the Fime Certification Platform.
@@ -23,17 +34,6 @@ Hi, I'm Anastasia Riana and I'm a recent graduate in computer science student wi
 **Marketing Technology and Analytics Intern @We Scale Startups (_September 2021 - April 2022_)**
 - Supported multiple startups' growth through data-driven strategies, content creation, and digital marketing. Managed social media, executed successful email campaigns (25% open rate increase), and attracted 3000+ visitors to Instagram.
 
-## Skills
-- Languages: English, Indonesian, Mandarin
-- Programming: Python, C/C++, R, HTML/CSS, JavaScript, SQL
-- Tools: Microsoft Office, Google Workspaces, Jira, Notion, Adobe, UNIX
-- Soft Skills: Teamwork, Communication, Punctuality, Leadership, Efficiency, Responsible
-- Others: Graphic Design, Photography, Video Editing
-
-## Certification
-- **Google Data Analytics Professional Certificate** (February 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/5HFWBLQWFL9M)
-- **Google IT Support Professional Certificate** (March 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/88GD6W9YBTZM)
-  
 ## Projects
 ### Automated Object Removal using Exemplar-Based Inpainting
 - Researched and developed an automated object removal program using concepts of digital image processing such as exemplar-based inpainting using MatLab. [Paper](https://drive.google.com/file/d/1uSVgg17T92mDnxO-7-5zfHUI0hzyXNlE/view)
