@@ -21,7 +21,7 @@ I'm a senior computer science student with a strong interest in data science. My
 - Supported the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow under Prof. Shen Chih-Ya's supervision.
 
 **Marketing Technology and Analytics Intern @We Scale Startups (_September 2021 - April 2022_)**
-- I supported multiple startups' growth through data-driven strategies, content creation, and digital marketing. Managed social media, executed successful email campaigns (25% open rate increase), and attracted 3000+ visitors to Instagram.
+- Supported multiple startups' growth through data-driven strategies, content creation, and digital marketing. Managed social media, executed successful email campaigns (25% open rate increase), and attracted 3000+ visitors to Instagram.
 
 ## Skills
 - Languages: English, Indonesian, Mandarin
