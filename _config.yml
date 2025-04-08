@@ -1,5 +1,27 @@
 title: Anastasia Riana
 logo: /assets/img/Untitled design.png
-description: Associate Technical Consultant @Fime | B.Sc @NTHU | Google Certified Data Analyst 
+description: Associate Technical Consultant @Fime | B.Sc @NTHU | Google Certified Data Analyst
 show_downloads: false
 theme: jekyll-theme-minimal
+
+social:
+  twitter: https://twitter.com/yourhandle
+  linkedin: https://www.linkedin.com/in/yourprofile
+  github: https://github.com/yourusername
+
+navigation:
+  - Home: /
+  - About: /about
+  - Blog: /blog
+  - Contact: /contact
+
+google_analytics: UA-XXXXXX-X
+
+footer:
+  text: "© 2025 Anastasia Riana. All rights reserved."
+
+search: true
+pagination: 5
+custom:
+  css: /assets/css/custom.css
+  js: /assets/js/custom.js
