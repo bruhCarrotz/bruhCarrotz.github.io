@@ -1,4 +1,3 @@
-## Overview
 Welcome to my webpage!  
 
 Hi, I'm Anastasia Riana and I'm a recent graduate in computer science student with a strong affinity for data science, and passion for project management, data analysis, and problem-solving. I'm skilled in collaborating with teams, adapting to new challenges, and finding efficient solutions. I'm eager to learn, grow, and contribute to meaningful projects. Let’s connect!
