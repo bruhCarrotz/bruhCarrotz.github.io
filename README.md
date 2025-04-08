@@ -8,8 +8,11 @@ I'm a senior computer science student with a strong interest in data science. My
 - High School Diploma, Natural Sciences | Saint Ursula Senior High School | Jakarta, Indonesia (_2017-2020_)
 
 ## Work and Research Experiences
-**Standards & Data Services Specialist @Faria Education Group (_June 2024 - Present_)**
--  
+**Standards & Data Services Specialist @Fime Consulting (_June 2025 - Present_)**
+- Managed Go-to-Market strategies, helping customers define their technical objectives and overcome challenges by recommending migration strategies, define technical specifications, and support successful product launches using the Fime Certification Platform.
+
+**Standards & Data Services Specialist @Faria Education Group (_June 2024 - May 2025_)**
+- Managed and participated in client services projects, focusing on data integrations and SaaS customizations for Faria Education products. Supported data alignment, integration, and analysis, ensuring consistency across platforms and contributing to the development of automated data pipelines and reports.
 
 **Data Specialist Intern @Faria Education Group (_July 2023 - June 2024_)**
 - Directed smooth transitions of data into ManageBac, refining data quality through thorough cleansing processes and utilizing Excel and Python for precise preprocessing and effective validation, ensuring swift and accurate entry.
