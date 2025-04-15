@@ -19,10 +19,13 @@ Hi, I'm Anastasia Riana and I'm a recent graduate in computer science student wi
 - **Google IT Support Professional Certificate** (March 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/88GD6W9YBTZM)
 
 ## Work and Research Experiences
-**Standards & Data Services Specialist @Faria Education Group (_June 2024 - Present_)**
+**Test Analyst/Engineer @ Fime Consulting (_June 2025 – Present_)**
+Performed certification and integration testing for payment terminals and kernels across EMVCo and transportation schemes, provided technical consulting to clients, analyzed emerging technologies for potential service opportunities, and ensured thorough documentation aligned with software QA standards.
+
+**Standards & Data Services Specialist @ Faria Education Group (_June 2024 - Present_)**
 - Managed and participated in client services projects, focusing on data integrations and SaaS customizations for Faria Education products. Supported data alignment, integration, and analysis, ensuring consistency across platforms and contributing to the development of automated data pipelines and reports.
 
-**Data Specialist Intern @Faria Education Group (_July 2023 - June 2024_)**
+**Data Specialist Intern @ Faria Education Group (_July 2023 - June 2024_)**
 - Directed smooth transitions of data into ManageBac, refining data quality through thorough cleansing processes and utilizing Excel and Python for precise preprocessing and effective validation, ensuring swift and accurate entry.
 
 **Undergraduate Research Assistant @National Tsing Hua University (_February 2023 - December 2023_)**
