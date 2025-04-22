@@ -19,11 +19,14 @@ Hi, I'm Anastasia Riana and I'm a recent graduate in computer science student wi
 - **Google IT Support Professional Certificate** (March 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/88GD6W9YBTZM)
 
 ## Work and Research Experiences
-**Standards & Data Services Specialist @ Faria Education Group (_June 2024 - Present_)**
-- Managed and participated in client services projects, focusing on data integrations and SaaS customizations for Faria Education products. Supported data alignment, integration, and analysis, ensuring consistency across platforms and contributing to the development of automated data pipelines and reports.
+**Associate Consultant @ FIME (_May 2025 - Present_)**
+- Managed Go-to-Market strategies, helping customers define their technical objectives and overcome challenges by recommending migration strategies, define technical specifications, and support successful product launches using the Fime Certification Platform.
+
+**Standards & Data Services Specialist @ Faria Education Group (_June 2024 - May 2025_)**
+- Managed and participated in client services projects, focusing on data integrations and SaaS customizations for a wide range of products. Supported data alignment, integration, and analysis, ensuring consistency across platforms and contributing to the development of automated data pipelines and reports.
 
 **Data Specialist Intern @ Faria Education Group (_July 2023 - June 2024_)**
-- Directed smooth transitions of data into ManageBac, refining data quality through thorough cleansing processes and utilizing Excel and Python for precise preprocessing and effective validation, ensuring swift and accurate entry.
+- Directed smooth transitions of data into several products, refining data quality through thorough cleansing processes and utilizing Excel and Python for precise preprocessing and effective validation, ensuring accurate entry.
 
 **Undergraduate Research Assistant @National Tsing Hua University (_February 2023 - December 2023_)**
 - Supported the development of recommendation systems by conducting literature reviews and implementing and evaluating machine learning algorithms using Python, such as NGCF, LightGCN, STAM, utilizing deep learning libraries such as PyTorch and TensorFlow under Prof. Shen Chih-Ya's supervision.
