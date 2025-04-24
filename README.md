@@ -19,7 +19,7 @@ Hi, I'm Anastasia Riana and I'm a recent graduate in computer science student wi
 - **Google IT Support Professional Certificate** (March 2024) [Credentials](https://www.coursera.org/account/accomplishments/specialization/certificate/88GD6W9YBTZM)
 
 ## Work and Research Experiences
-**Associate Consultant @ FIME (_May 2025 - Present_)**
+**Associate Technical Consultant @ FIME (_May 2025 - Present_)**
 - Managed Go-to-Market strategies, helping customers define their technical objectives and overcome challenges by recommending migration strategies, define technical specifications, and support successful product launches using the Fime Certification Platform.
 
 **Standards & Data Services Specialist @ Faria Education Group (_June 2024 - May 2025_)**
