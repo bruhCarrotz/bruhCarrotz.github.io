@@ -20,7 +20,7 @@ Hi, I'm Anastasia Riana and I'm a recent graduate in computer science student wi
 
 ## Work and Research Experiences
 **Associate Technical Consultant @ FIME (_May 2025 - Present_)**
-- Managed Go-to-Market strategies, helping customers define their technical objectives and overcome challenges by recommending migration strategies, define technical specifications, and support successful product launches using the Fime Certification Platform.
+- Delivering technical consulting and implementation support for EMV Chip Based Payment and EMV L3 Tool Qualification Strategy and Environment Setup, including certification testing, specification analysis, migration strategy, and digital payment integration, as part of Consult Hyperion by Fime.
 
 **Standards & Data Services Specialist @ Faria Education Group (_June 2024 - May 2025_)**
 - Managed and participated in client services projects, focusing on data integrations and SaaS customizations for a wide range of products. Supported data alignment, integration, and analysis, ensuring consistency across platforms and contributing to the development of automated data pipelines and reports.
